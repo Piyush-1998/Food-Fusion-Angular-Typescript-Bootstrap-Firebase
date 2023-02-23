@@ -1,0 +1,20 @@
+
+.dropdown-toggle { 
+  cursor: pointer;
+}
+
+#vegehomes {
+  color: #000000;
+  text-shadow: 1px 1px 1px #f18383;
+}
+
+.fa-shopping-cart {
+  color: #000000;
+}
+
+.fa-shopping-cart:hover {
+  color: #5b93e7;
+}
+.navbar-inner {
+  background: transparent;
+}
